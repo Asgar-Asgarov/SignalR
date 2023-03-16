@@ -2,6 +2,8 @@ using JuanProject.DAL;
 using JuanProject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.SignalR;
+using JuanProject.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -62,5 +64,6 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapHub<ChatHub>("/chat");
 
 app.Run();
