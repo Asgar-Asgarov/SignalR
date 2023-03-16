@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LebGHmV8Y534scn3pKm0hrQayRgMWfTlnoDixLQWRE4GxFz2qeZJz1ZhXi4lx3+EIe7rG/qJ8dzHpGmRLBhDVA==",
+  "dgSpecHash": "7bH296DtNSI99wq1wTgUUHtEWutG9d2MXgCd24h4JhTe/n2ttLgaCinLQNiz0Lt+DMliWSWcBLmRGcqnJzUKpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asgaryas\\Desktop\\test\\JuanProject\\JuanProject.csproj",
+  "projectFilePath": "C:\\Users\\asgaryas\\Desktop\\SignalR\\JuanProject\\JuanProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asgaryas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\asgaryas\\.nuget\\packages\\mailkit\\3.4.2\\mailkit.3.4.2.nupkg.sha512",
